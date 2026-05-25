@@ -1,7 +1,0 @@
-{
-  "name": "habitTrackerApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
